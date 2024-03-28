@@ -24,7 +24,7 @@
 | 11  | Fariha Anis Suhaimi                  | | | | |
 | 12  | Fatima Aliyu Shugaba                 | | | | |
 | 13  | Hameed Mohamed Ali Elmahdi Gannoun   | | | | |
-| 14  | Ishara Barhoson Galadima             | | | | |
+| 14  | Ishara Barhoson Galadima             | kaptainu| | | |
 | 15  | Javed Akhtar                         | | | | |
 | 16  | Li Haoze                             | | | | |
 | 17  | Marco Chin                           | | | | |
